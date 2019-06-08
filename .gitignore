@@ -1,0 +1,5 @@
+sounds/*
+node_modules
+.git
+.idea
+public
